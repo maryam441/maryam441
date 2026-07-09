@@ -85,11 +85,15 @@ Below are some of the projects I've built, showcasing my experience in AI, backe
 
 AI-powered platform for managing appointments, patients, and healthcare operations.
 
-**Tech Stack**
+**Technologies & Algorithms**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
 
 <p>
 <a href="https://github.com/maryam441/AI-Powered-hospital-management-system">
@@ -106,11 +110,14 @@ AI-powered platform for managing appointments, patients, and healthcare operatio
 
 Intelligent healthcare assistant built with Natural Language Processing.
 
-**Tech Stack**
+**Technologies & Algorithms**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-6C63FF?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Qwen](https://img.shields.io/badge/Qwen%20LLM-7B61FF?style=flat-square)
+![SQLite](https://img.shields.io/badge/Database-336791?style=flat-square)
+
 
 <p>
 <a href="https://github.com/maryam441/AI_Dr-">
@@ -130,7 +137,7 @@ Intelligent healthcare assistant built with Natural Language Processing.
 
 AI-powered computer vision system for detecting, counting, and monitoring animal herds with live location mapping.
 
-**Tech Stack**
+**Technologies & Algorithms**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
@@ -149,10 +156,13 @@ AI-powered computer vision system for detecting, counting, and monitoring animal
 
 ML-powered recommendation system based on user symptoms.
 
-**Tech Stack**
+**Technologies & Algorithms**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square)
+![KNN](https://img.shields.io/badge/KNN-4B0082?style=flat-square)
+![Gradient Descent](https://img.shields.io/badge/Gradient%20Descent-FF6F00?style=flat-square)
 
 <p>
 <a href="https://github.com/maryam441/AI-project">
@@ -172,7 +182,7 @@ ML-powered recommendation system based on user symptoms.
 
 Deep learning model for identifying fake and misleading news.
 
-**Tech Stack**
+**Technologies & Algorithms**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
