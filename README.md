@@ -272,8 +272,12 @@ Production-ready REST APIs with authentication and database integration.
 </a>
 
 <a href="mailto:maryam49206@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+<br>
+
+<b>📧 maryam49206@gmail.com</b>
 
 
 <!-- <a href="https://linkedin.com/in/your-linkedin">
@@ -291,10 +295,10 @@ Production-ready REST APIs with authentication and database integration.
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for Visiting!
 
-*"Always learning, always building, always improving."*
+*"Always learning, always building, and always improving."*
 
-If you like my work, feel free to ⭐ my repositories or connect with me!
+If you found my projects interesting or would like to collaborate, feel free to connect with me.
 
 </div>
