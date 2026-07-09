@@ -274,8 +274,9 @@ Production-ready REST APIs with authentication and database integration.
 <a href="mailto:maryam49206@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<b>📧 maryam49206@gmail.com</b>
+
 <br>
+<b>📧 maryam49206@gmail.com</b>
 
 
 
