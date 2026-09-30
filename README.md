@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:a855f7,100:0d1117&text=Maryam%20Sharif&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Python%20%7C%20Backend%20%7C%20Full%20Stack&descSize=18&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:a855f7,100:0d1117&text=Maryam%20Sharif&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Python%20%7C%20Backend%20%7C%20Full%20Stack&descSize=18&descAlignY=55" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=750&lines=Data+Science+Student;Python+Developer;Backend+Developer;Full+Stack+Developer;Building+Real-World+Applications;Learning+Data+Engineering" />
 
@@ -9,7 +9,7 @@
 <a href="https://github.com/maryam441">
 <img src="https://img.shields.io/badge/GitHub-maryam441-181717?style=for-the-badge&logo=github"/>
 </a>
-
+&nbsp;
 <a href="mailto:maryam49206@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -24,14 +24,15 @@
 
 # 👩‍💻 About Me
 
-<img align="right" src="./assets/profile.png" width="250"/>
+<p align="center">
+  <img src="./assets/profile.png" width="230"/>
+</p>
 
 ```python
 class MaryamSharif:
 
     role = "Data Science Student & Developer"
     location = "Lahore, Pakistan"
-
     education = "BS Data Science"
 
     interests = [
@@ -75,10 +76,14 @@ class MaryamSharif:
 
 # 🎓 Education
 
-| Degree           | Field        | Institution         |
-| ---------------- | ------------ | ------------------- |
-| **BS**           | Data Science | Superior University |
-| **Intermediate** | Pre-Medical  | Punjab College      |
+<div align="center">
+
+|     🎓 Degree    |   📚 Field   |    🏫 Institution   |
+| :--------------: | :----------: | :-----------------: |
+|      **BS**      | Data Science | Superior University |
+| **Intermediate** |  Pre-Medical |    Punjab College   |
+
+</div>
 
 ---
 
@@ -110,14 +115,14 @@ Backend system for an organization-focused voice operating layer with authentica
 
 **Key Features**
 
-* 🔐 JWT authentication
+* 🔐 JWT Authentication
 * 👥 Role-Based Access Control
-* 🏢 Organization management
-* 📩 Member invitations
-* 📚 Knowledge-base management
-* 🔄 Knowledge lifecycle: Draft → Pending → Authorized → Archived
-* 📧 Verification & password reset flows
-* 🧪 CI-integrated backend
+* 🏢 Organization Management
+* 📩 Member Invitations
+* 📚 Knowledge-Base Management
+* 🔄 Knowledge Lifecycle: Draft → Pending → Authorized → Archived
+* 📧 Verification & Password Reset
+* 🧪 CI-Integrated Backend
 
 **Tech:** `FastAPI` · `Python` · `Pydantic` · `JWT` · `PostgreSQL` · `Alembic`
 
@@ -129,19 +134,21 @@ Full-stack healthcare management platform combining modern web technologies, sec
 
 **Key Features**
 
-* 🔐 JWT authentication & authorization
-* 👥 Role-based access
-* 📅 Appointment management
-* 🏥 Patient management
-* 🤖 AI chatbot
-* 🗄️ PostgreSQL database
+* 🔐 JWT Authentication & Authorization
+* 👥 Role-Based Access
+* 📅 Appointment Management
+* 🏥 Patient Management
+* 🤖 AI Chatbot
+* 🗄️ PostgreSQL Database
 * 🔌 REST APIs
 
 **Tech:** `Next.js` · `NestJS` · `PostgreSQL` · `Prisma` · `JWT`
 
+<p>
 <a href="https://github.com/maryam441/AI-Powered-hospital-management-system">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/📂%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 ---
 
@@ -149,23 +156,23 @@ Full-stack healthcare management platform combining modern web technologies, sec
 
 A cybersecurity intelligence platform designed to detect malicious network activity, classify threats, explain predictions, and support automated incident-response workflows.
 
-**Planned Architecture**
+**Architecture**
 
 ```text
 Network Data
-     ↓
+      ↓
 Data Cleaning & Feature Engineering
-     ↓
+      ↓
 ML / Deep Learning Models
-     ↓
+      ↓
 Threat Classification
-     ↓
+      ↓
 Risk & Confidence Score
-     ↓
-RAG-based Explanation
-     ↓
+      ↓
+RAG-Based Explanation
+      ↓
 Incident Response Agent
-     ↓
+      ↓
 Human Approval
 ```
 
@@ -181,9 +188,11 @@ Conversational healthcare assistant developed using Python, Flask, LangChain and
 
 **Tech:** `Python` · `Flask` · `LangChain` · `Qwen` · `SQLite`
 
+<p>
 <a href="https://github.com/maryam441/AI_Dr-">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/📂%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 ---
 
@@ -201,48 +210,52 @@ Machine learning based recommendation system using user symptoms.
 
 **Tech:** `Python` · `Scikit-Learn` · `Random Forest` · `KNN`
 
+<p>
 <a href="https://github.com/maryam441/AI-project">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/📂%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 ---
 
 # 🧠 Tech Stack
 
-### Programming & Data
+### 💻 Programming
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript"/>
 </p>
 
-<p>
+### 📊 Data Science
+
+<p align="center">
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### Backend
+### ⚙️ Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nestjs,nodejs"/>
 </p>
 
-### Frontend
+### 🎨 Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind"/>
 </p>
 
-### Databases
+### 🗄️ Databases
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma"/>
 </p>
 
-### Tools
+### 🛠️ Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
 </p>
 
@@ -250,38 +263,40 @@ Machine learning based recommendation system using user symptoms.
 
 # 🌱 Current Focus
 
-* 🛡️ AI-powered Cybersecurity
-* 🧠 Machine Learning & Deep Learning
-* ⚙️ Backend Engineering
-* 🔄 Data Engineering & ETL
-* 🗄️ PostgreSQL & Database Systems
-* 🐳 Docker & Containerization
-* ☁️ Cloud & Deployment
-* 🏗️ Scalable System Design
+<div align="center">
+
+| 🔹 Area                 | 🔹 Focus                    |
+| :---------------------- | :-------------------------- |
+| 🛡️ **Cybersecurity**   | AI-powered threat detection |
+| 🧠 **Machine Learning** | ML & Deep Learning          |
+| ⚙️ **Backend**          | APIs & scalable services    |
+| 🔄 **Data Engineering** | ETL & data pipelines        |
+| 🗄️ **Databases**       | PostgreSQL & data systems   |
+| 🐳 **DevOps**           | Docker & deployment         |
+| ☁️ **Cloud**            | Cloud technologies          |
+| 🏗️ **Architecture**    | Scalable system design      |
+
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maryam441&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=maryam441&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam441&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam441&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=maryam441&theme=tokyonight&hide_border=true"/>
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryam441&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
@@ -292,14 +307,18 @@ Machine learning based recommendation system using user symptoms.
 <a href="https://github.com/maryam441">
 <img src="https://img.shields.io/badge/GitHub-maryam441-181717?style=for-the-badge&logo=github"/>
 </a>
-
+&nbsp;
 <a href="mailto:maryam49206@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-maryam49206-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br><br>
+
+📧 **[maryam49206@gmail.com](mailto:maryam49206@gmail.com)**
+
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -309,4 +328,4 @@ Machine learning based recommendation system using user symptoms.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:a855f7,100:0d1117&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:a855f7,100:0d1117&section=footer" width="100%"/>
