@@ -24,15 +24,15 @@
 
 # 👩‍💻 About Me
 
-I'm a **BS Data Science student and developer** passionate about building practical software solutions, backend systems, data-driven applications, and machine learning projects.
+I'm a **BS Data Science student and developer** interested in building practical software solutions, backend systems, data-driven applications, and machine learning projects.
 
-
+```python
 class MaryamSharif:
-role = "Data Science Student & Developer"
+    role = "Data Science Student & Developer"
     location = "Lahore, Pakistan"
     education = "BS Data Science"
 
- interests = [
+    interests = [
         "Data Science",
         "Python Development",
         "Backend Development",
@@ -41,26 +41,31 @@ role = "Data Science Student & Developer"
         "Data Engineering"
     ]
 
-tech_stack = [
-        "Python", "SQL", "FastAPI",
-        "Flask", "Django", "NestJS",
-        "Next.js", "PostgreSQL"
+    tech_stack = [
+        "Python",
+        "SQL",
+        "FastAPI",
+        "Flask",
+        "Django",
+        "NestJS",
+        "Next.js",
+        "PostgreSQL"
     ]
 
-currently_building = [
+    currently_building = [
         "AI-powered applications",
         "Backend systems",
         "Data-driven solutions"
     ]
 
-currently_learning = [
+    currently_learning = [
         "Data Engineering",
         "ETL Pipelines",
         "Docker",
         "Cloud & Deployment"
     ]
 
-motto = "Learn. Build. Improve."
+    motto = "Learn. Build. Improve."
 ```
 
 ---
@@ -175,7 +180,7 @@ Human Approval
 
 ### 🤖 AI Medical Chatbot
 
-Conversational healthcare assistant developed using Python, Flask, LangChain and an LLM-based architecture.
+Conversational healthcare assistant developed using Python, Flask, LangChain, and an LLM-based architecture.
 
 **Tech:** `Python` · `Flask` · `LangChain` · `Qwen` · `SQLite`
 
