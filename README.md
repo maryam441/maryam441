@@ -24,9 +24,7 @@
 
 # 👩‍💻 About Me
 
-<p align="center">
-  <img src="./assets/profile.png" width="230"/>
-</p>
+I'm a **BS Data Science student and developer** passionate about building practical software solutions, backend systems, data-driven applications, and machine learning projects.
 
 ```python
 class MaryamSharif:
@@ -44,22 +42,16 @@ class MaryamSharif:
         "Data Engineering"
     ]
 
-    technologies = [
-        "Python",
-        "SQL",
-        "FastAPI",
-        "Flask",
-        "Django",
-        "NestJS",
-        "Next.js",
-        "PostgreSQL"
+    tech_stack = [
+        "Python", "SQL", "FastAPI",
+        "Flask", "Django", "NestJS",
+        "Next.js", "PostgreSQL"
     ]
 
     currently_building = [
         "AI-powered applications",
         "Backend systems",
-        "Data-driven solutions",
-        "Machine learning projects"
+        "Data-driven solutions"
     ]
 
     currently_learning = [
@@ -71,6 +63,8 @@ class MaryamSharif:
 
     motto = "Learn. Build. Improve."
 ```
+
+---
 
 ---
 
