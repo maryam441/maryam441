@@ -1,285 +1,102 @@
 <div align="center">
 
-<img alt="Maryam Sharif banner" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:a855f7,100:0d1117&text=Maryam%20Sharif&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Python%20%7C%20Backend%20%7C%20Full%20Stack&descSize=18&descAlignY=55" width="100%"/>
+<img alt="Maryam Sharif" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0d1117,100:1f2937&text=Maryam%20Sharif&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Data%20Science%20%C2%B7%20Python%20%C2%B7%20Backend%20Engineering&descSize=17&descAlignY=65&descColor=a1a1aa" width="100%"/>
 
-<img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=750&lines=Data+Science+Student;Python+Developer;Backend+Developer;Full+Stack+Developer;Building+Real-World+Applications;Learning+Data+Engineering" />
-
-<br>
-
-<a href="https://github.com/maryam441">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-maryam441-181717?style=for-the-badge&logo=github"/>
-</a>
-&nbsp;
-<a href="mailto:maryam49206@gmail.com">
-<img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=maryam441&label=Profile%20Views&color=a855f7&style=for-the-badge"/>
+<a href="https://github.com/maryam441"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-maryam441-181717?style=flat-square&logo=github"/></a>
+<a href="mailto:maryam49206@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maryam49206%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img alt="Location" src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-374151?style=flat-square"/>
 
 </div>
 
----
+## About
 
-# 👩‍💻 About Me
+BS Data Science student at Superior University with a focus on building production-minded software: backend services, data-driven applications, and applied machine learning. I enjoy taking a project from data and modeling through to a secure, well-structured API and a working interface.
 
-I'm a **BS Data Science student and developer** interested in building practical software solutions, backend systems, data-driven applications, and machine learning projects.
+Currently strengthening my skills in data engineering, containerization, and cloud deployment.
 
-| | |
+## Technical Skills
+
+| Area | Technologies |
 | :-- | :-- |
-| 🎓 **Education** | BS Data Science |
-| 📍 **Location** | Lahore, Pakistan |
-| 💡 **Interests** | Data Science, Python, Backend, Full Stack, Machine Learning, Cybersecurity, Data Engineering |
-| 🛠️ **Tech Stack** | Python, SQL, JavaScript, TypeScript, FastAPI, Flask, Django, NestJS, Next.js, PostgreSQL, Prisma, Scikit-Learn, TensorFlow |
-| 🔨 **Building** | AI-powered applications, Backend systems, AI-based cybersecurity tools |
-| 🌱 **Learning** | Data Engineering, ETL Pipelines, Docker, Cloud & Deployment |
-| 💬 **Motto** | *Learn. Build. Improve.* |
+| **Languages** | Python, SQL, JavaScript, TypeScript |
+| **Machine Learning** | Scikit-Learn, TensorFlow, XGBoost, NLP, 1D-CNN / LSTM |
+| **Backend** | FastAPI, Flask, Django, NestJS, REST APIs, JWT Authentication |
+| **Frontend** | Next.js, React, Tailwind CSS |
+| **Databases** | PostgreSQL, MySQL, SQLite, Prisma, Alembic |
+| **Tools** | Git, GitHub, Docker, Postman, VS Code |
 
----
+## Featured Projects
 
-# 🎓 Education
+### Multi-Layer AI Scam & Fraud Detection System
+A layered detection system that analyzes voice, conversations, and messages to identify scams and phishing attempts.
 
-<div align="center">
+- Spoofed and deepfake voice detection, scam conversation classification, and SMS phishing detection
+- Multi-layer risk analysis that combines signals from all three modules
+- Datasets: ASVspoof 2019 LA, In-The-Wild, Common Voice Urdu, Scammer Conversations, SMS Phishing
 
-|     🎓 Degree    |   📚 Field   |    🏫 Institution   |
-| :--------------: | :----------: | :-----------------: |
-|      **BS**      | Data Science | Superior University |
-| **Intermediate** |  Pre-Medical |    Punjab College   |
+`Python` `TensorFlow` `Scikit-Learn` `NLP` `Deep Learning`
 
-</div>
+### CyberGuard: Cyber Threat Intelligence & Automated Incident Response
+A threat-intelligence platform that detects malicious network activity, classifies threats, explains predictions, and supports human-approved incident response.
 
----
+- Pipeline: data cleaning and feature engineering, ML/DL classification, risk and confidence scoring
+- RAG-based explanations and an incident-response agent with a human approval step
+- Dataset: UNSW-NB15
 
-# 🚀 Featured Projects
+`Python` `Scikit-Learn` `XGBoost` `1D-CNN / LSTM` `FastAPI` `RAG` `Vector Database`
 
-### 🛡️ Multi-Layer AI Scam & Fraud Detection System
+### VoxOps: Voice Operating Layer for Organizations
+Backend for an organization-focused voice platform covering authentication, access control, and knowledge management.
 
-A multi-layer fraud detection system combining **voice, conversation, and message-level analysis** to identify different forms of scams and phishing attacks.
+- JWT authentication, role-based access control, organizations, and member invitations
+- Knowledge lifecycle workflow: Draft, Pending, Authorized, Archived
+- Email verification, password reset, and CI-integrated test pipeline
 
-**Modules**
+`FastAPI` `Python` `Pydantic` `JWT` `PostgreSQL` `Alembic`
 
-* 🎙️ Deepfake / spoofed voice detection
-* 💬 Scam conversation detection
-* 📱 SMS phishing & spam detection
-* 🔍 Multi-layer risk analysis
-* 📊 Machine learning & deep learning models
+### AI Powered Hospital Management System
+Full-stack healthcare platform with secure authentication, appointment and patient management, and an AI chatbot assistant.
 
-**Datasets:** `ASVspoof 2019 LA` · `In-The-Wild` · `Common Voice Urdu` · `Scammer Conversations` · `SMS Phishing`
+- JWT authentication with role-based access
+- REST APIs backed by a PostgreSQL database
 
-**Tech:** `Python` · `TensorFlow` · `Scikit-Learn` · `NLP` · `Deep Learning`
+`Next.js` `NestJS` `PostgreSQL` `Prisma` `JWT`
 
----
+[View repository](https://github.com/maryam441/AI-Powered-hospital-management-system)
 
-### 🎙️ VoxOps — Voice Operating Layer for Organizations
+### Other Projects
 
-Backend system for an organization-focused voice operating layer with authentication, authorization, organizations, invitations, and knowledge-base management.
+| Project | Description | Stack | Link |
+| :-- | :-- | :-- | :-- |
+| **AI Medical Chatbot** | Conversational healthcare assistant built on an LLM architecture | Python, Flask, LangChain, Qwen, SQLite | [Repository](https://github.com/maryam441/AI_Dr-) |
+| **AI Medicine Recommendation System** | Symptom-based medicine recommendations using ML | Python, Scikit-Learn, Random Forest, KNN | [Repository](https://github.com/maryam441/AI-project) |
+| **Fake News Detection** | NLP-based classification of potentially misleading news | Python, TensorFlow, 1D-CNN, LSTM | n/a |
 
-**Key Features**
+## Education
 
-* 🔐 JWT Authentication
-* 👥 Role-Based Access Control
-* 🏢 Organization Management
-* 📩 Member Invitations
-* 📚 Knowledge-Base Management
-* 🔄 Knowledge Lifecycle: Draft → Pending → Authorized → Archived
-* 📧 Verification & Password Reset
-* 🧪 CI-Integrated Backend
+| Degree | Field | Institution |
+| :-- | :-- | :-- |
+| BS | Data Science | Superior University |
+| Intermediate | Pre-Medical | Punjab College |
 
-**Tech:** `FastAPI` · `Python` · `Pydantic` · `JWT` · `PostgreSQL` · `Alembic`
+## Current Focus
 
----
+- **Data Engineering:** ETL pipelines and data workflows
+- **Backend and Architecture:** scalable APIs and system design
+- **DevOps and Cloud:** Docker, deployment, and cloud technologies
+- **Applied AI:** machine learning for cybersecurity and healthcare
 
-### 🏥 AI Powered Hospital Management System
-
-Full-stack healthcare management platform combining modern web technologies, secure authentication, database management, and AI-powered assistance.
-
-**Key Features**
-
-* 🔐 JWT Authentication & Authorization
-* 👥 Role-Based Access
-* 📅 Appointment Management
-* 🏥 Patient Management
-* 🤖 AI Chatbot
-* 🗄️ PostgreSQL Database
-* 🔌 REST APIs
-
-**Tech:** `Next.js` · `NestJS` · `PostgreSQL` · `Prisma` · `JWT`
-
-<p>
-<a href="https://github.com/maryam441/AI-Powered-hospital-management-system">
-<img alt="View Project" src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-### 🛡️ CyberGuard — Cyber Threat Intelligence & Automated Incident Response
-
-A cybersecurity intelligence platform designed to detect malicious network activity, classify threats, explain predictions, and support automated incident-response workflows.
-
-**Architecture**
-
-```text
-Network Data
-      ↓
-Data Cleaning & Feature Engineering
-      ↓
-ML / Deep Learning Models
-      ↓
-Threat Classification
-      ↓
-Risk & Confidence Score
-      ↓
-RAG-Based Explanation
-      ↓
-Incident Response Agent
-      ↓
-Human Approval
-```
-
-**Tech:** `Python` · `Scikit-Learn` · `XGBoost` · `1D-CNN / LSTM` · `FastAPI` · `RAG` · `Vector Database`
-
-**Dataset:** `UNSW-NB15`
-
----
-
-### 🤖 AI Medical Chatbot
-
-Conversational healthcare assistant developed using Python, Flask, LangChain, and an LLM-based architecture.
-
-**Tech:** `Python` · `Flask` · `LangChain` · `Qwen` · `SQLite`
-
-<p>
-<a href="https://github.com/maryam441/AI_Dr-">
-<img alt="View Project" src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-### 📰 Fake News Detection
-
-Machine learning and deep learning project for identifying potentially misleading news content using NLP techniques.
-
-**Tech:** `Python` · `TensorFlow` · `NLP` · `1D-CNN` · `LSTM`
-
----
-
-### 💊 AI Medicine Recommendation System
-
-Machine learning based recommendation system using user symptoms.
-
-**Tech:** `Python` · `Scikit-Learn` · `Random Forest` · `KNN`
-
-<p>
-<a href="https://github.com/maryam441/AI-project">
-<img alt="View Project" src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-# 🧠 Tech Stack
-
-### 💻 Programming
-
-<p align="center">
-<img alt="Python, JavaScript, TypeScript" src="https://skillicons.dev/icons?i=python,javascript,typescript"/>
-</p>
-
-### 📊 Data Science
-
-<p align="center">
-<img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-<img alt="Backend tools" src="https://skillicons.dev/icons?i=fastapi,flask,django,nestjs,nodejs"/>
-</p>
-
-### 🎨 Frontend
-
-<p align="center">
-<img alt="Frontend tools" src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-<img alt="Databases" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma"/>
-</p>
-
-### 🛠️ Tools
-
-<p align="center">
-<img alt="Dev tools" src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
-</p>
-
----
-
-# 🌱 Current Focus
+## GitHub Stats
 
 <div align="center">
 
-| 🔹 Area                 | 🔹 Focus                    |
-| :---------------------- | :-------------------------- |
-| 🛡️ **Cybersecurity**   | AI-powered threat detection |
-| 🧠 **Machine Learning** | ML & Deep Learning          |
-| ⚙️ **Backend**          | APIs & scalable services    |
-| 🔄 **Data Engineering** | ETL & data pipelines        |
-| 🗄️ **Databases**       | PostgreSQL & data systems   |
-| 🐳 **DevOps**           | Docker & deployment         |
-| ☁️ **Cloud**            | Cloud technologies          |
-| 🏗️ **Architecture**    | Scalable system design      |
+<img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=maryam441&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam441&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+## Contact
 
-# 📊 GitHub Analytics
+Open to internships, collaborations, and entry-level opportunities in data science and backend development.
 
-<div align="center">
-
-<img alt="GitHub stats" height="180" src="https://github-readme-stats.vercel.app/api?username=maryam441&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img alt="Top languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam441&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=maryam441&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=maryam441&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/maryam441">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-maryam441-181717?style=for-the-badge&logo=github"/>
-</a>
-&nbsp;
-<a href="mailto:maryam49206@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-maryam49206-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-### ⭐ Thanks for visiting!
-
-**Learn → Build → Ship → Improve**
-
-</div>
-
-<img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:a855f7,100:0d1117&section=footer" width="100%"/>
+Email: [maryam49206@gmail.com](mailto:maryam49206@gmail.com) | GitHub: [@maryam441](https://github.com/maryam441)
