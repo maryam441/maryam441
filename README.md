@@ -26,14 +26,13 @@
 
 I'm a **BS Data Science student and developer** passionate about building practical software solutions, backend systems, data-driven applications, and machine learning projects.
 
-```python
-class MaryamSharif:
 
-    role = "Data Science Student & Developer"
+class MaryamSharif:
+role = "Data Science Student & Developer"
     location = "Lahore, Pakistan"
     education = "BS Data Science"
 
-    interests = [
+ interests = [
         "Data Science",
         "Python Development",
         "Backend Development",
@@ -42,29 +41,27 @@ class MaryamSharif:
         "Data Engineering"
     ]
 
-    tech_stack = [
+tech_stack = [
         "Python", "SQL", "FastAPI",
         "Flask", "Django", "NestJS",
         "Next.js", "PostgreSQL"
     ]
 
-    currently_building = [
+currently_building = [
         "AI-powered applications",
         "Backend systems",
         "Data-driven solutions"
     ]
 
-    currently_learning = [
+currently_learning = [
         "Data Engineering",
         "ETL Pipelines",
         "Docker",
         "Cloud & Deployment"
     ]
 
-    motto = "Learn. Build. Improve."
+motto = "Learn. Build. Improve."
 ```
-
----
 
 ---
 
